@@ -11,7 +11,7 @@ Welcome to my **Data Analytics Portfolio**, where I showcase projects and case s
 
 - **Education**: 
   - Bachelors Degree in Business Administration from Fidelitas.
-  - **IN PROGRESS** Master's Degree in Business Analytics from Universidad Latina.
+  - Master's Degree in Business Analytics from Universidad Latina.
 - **Technical Skills**: 
   - **SQL** (PostgreSQL, MySQL)
   - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
